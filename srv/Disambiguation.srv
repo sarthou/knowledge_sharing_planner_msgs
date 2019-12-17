@@ -1,0 +1,6 @@
+string individual
+Triplet[] baseFacts
+string ontology
+---
+Triplet[] result
+string[] sparqlResult
