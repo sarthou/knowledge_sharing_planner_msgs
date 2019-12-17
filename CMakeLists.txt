@@ -57,6 +57,7 @@ find_package(catkin REQUIRED COMPONENTS
  add_service_files(
    FILES
    Disambiguation.srv
+   Verbalization.srv
 #   Service2.srv
  )
 
