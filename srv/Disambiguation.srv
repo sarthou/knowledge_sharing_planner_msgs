@@ -2,5 +2,7 @@ string individual
 Triplet[] baseFacts
 string ontology
 ---
+bool success
 Triplet[] result
 string[] sparqlResult
+string[] ambiguous
