@@ -1,5 +1,6 @@
 string individual
 Triplet[] baseFacts
+SymbolTable symbol_table
 string ontology
 ---
 bool success
