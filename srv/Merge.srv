@@ -1,0 +1,5 @@
+string[] base_query
+string[] context_query
+bool partial
+---
+string[] merged_query
