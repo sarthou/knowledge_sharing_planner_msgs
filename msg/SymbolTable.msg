@@ -1,0 +1,2 @@
+string[] individuals
+string[] symbols
