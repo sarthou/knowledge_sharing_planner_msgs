@@ -1,3 +1,4 @@
 string[] sparqlQuery
+string receiver_id
 ---
 string verbalization
