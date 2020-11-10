@@ -2,6 +2,7 @@ string individual
 Triplet[] baseFacts
 SymbolTable symbol_table
 string ontology
+bool replan
 ---
 bool success
 Triplet[] result
