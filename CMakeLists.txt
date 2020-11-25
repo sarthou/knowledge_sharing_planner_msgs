@@ -43,3 +43,9 @@ find_package(catkin REQUIRED COMPONENTS
    DEPENDENCIES
    std_msgs
  )
+
+ ###################################
+ ## catkin specific configuration ##
+ ###################################
+ catkin_package(
+ )
