@@ -2,5 +2,6 @@ string verbalization
 string emitter_id
 ---
 string[] sparqlQuery
+string action
 float64 comprehension_score
 float64 analyse_score
