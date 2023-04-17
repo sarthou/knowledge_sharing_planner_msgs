@@ -1,7 +1,10 @@
 string verbalization
 string emitter_id
+string receiver_id
 ---
 string[] sparqlQuery
 string action
+string action_subject
+string intention
 float64 comprehension_score
 float64 analyse_score
