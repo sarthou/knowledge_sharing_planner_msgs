@@ -1,4 +1,6 @@
 string[] sparqlQuery
+bool designate
+bool defined
 string receiver_id
 ---
 string verbalization
